@@ -1,0 +1,4 @@
+name: ArtCordServerStats
+version: '${project.version}'
+main: xyz.subaka.ArtCordServerStats
+api-version: '1.20'
